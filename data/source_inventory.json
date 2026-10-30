@@ -1,0 +1,20 @@
+{
+  "source_file": "Breast_Cancer.csv",
+  "sha256": "667fa828fb39d85f6a622dd2067ed3b5221f5460aca6ceec2be5fcfb318d69bd",
+  "source_rows": 4024,
+  "columns": 16,
+  "source": "Included in the original project repository",
+  "public_listing": "https://www.kaggle.com/datasets/reihanenamdari/breast-cancer",
+  "download_receipt_available": false,
+  "original_licensing_record_available": false,
+  "archived_unrelated_input": {
+    "path": "docs/legacy_inputs/raw_data.xlsx",
+    "sha256": "da78dd6c71eee0b2e36a6a9772ecdf59dd07046bc52372080e2f4bdca0be4478",
+    "columns": [
+      "Disease",
+      "Count of Disease Occurrence",
+      "Symptom"
+    ],
+    "used": false
+  }
+}
